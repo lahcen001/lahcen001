@@ -7,7 +7,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Lacaisse.ma**
+- 🔭 I’m currently working at **Lacaisse.ma**
 - 🌱 I’m currently learning **new JS technologies**
 - 💬 Ask me about **JavaScript, ReactJS , NodeJS **
 
