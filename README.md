@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Lacaisse.ma**
 - 🌱 I’m currently learning **new JS technologies**
-- 💬 Ask me about **Javasscript, ReactJS , NodeJS **
+- 💬 Ask me about **JavaScript, ReactJS , NodeJS **
 
 
 
