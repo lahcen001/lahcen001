@@ -2,7 +2,7 @@
 
 <h2 align="center">👋 Hello! I'm Lahcen.</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/lahcen-el-hanchir">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/lahcen-el-hanchir">LinkedIn</a> •
   <a href="https://web.facebook.com/lahcen000lh/">Facebook</a>•
    <a href="https://twitter.com/lahcenLH2">Twitter</a>
 </p>
