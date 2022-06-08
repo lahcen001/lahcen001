@@ -1,6 +1,6 @@
 
 
-<h2 align="center">👋 Hello! I'm Lahcen.</h2>
+<h2 align="center">👋 Hello! I'm Lahcen. Full Stack web developer</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/lahcen-el-hanchir">LinkedIn</a> •
   <a href="https://web.facebook.com/lahcen000lh/">Facebook</a>•
