@@ -12,11 +12,6 @@
 - 💬 Ask me about **Javasscript, ReactJS , NodeJS **
 
 
--------
-
-**📝 Latest Blog Posts**
-
--------
 
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
